@@ -8,11 +8,8 @@
 
 | Integrante | Papel |
 |---|---|
-| [NOME 1] | Analista de requisitos |
-| [NOME 2] | Analista de requisitos |
-| [NOME 3] | Arquiteto (diagramas C4) |
-| [NOME 4] | Responsável por decisões e comunicação (ADRs, HTTP, HTTPS) |
-| [NOME 5] | Revisor de rastreabilidade (se a equipe tiver 5 integrantes) |
+| [Arnaldo Batista] | Analista de requisitos |
+
 
 ## Sumário
 
